@@ -67,4 +67,3 @@ def post_review(data_dict):
         print("Network exception occurred")
         return {}
 
-
